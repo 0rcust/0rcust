@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0rcust
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java & C
+- 👀 I’m interested in programming/cybersecurity/machine learning/automation
+- 🌱 I’m currently learning Java & Python
 - 📫 How to reach me orcust4@gmail.com
 
 <!---
